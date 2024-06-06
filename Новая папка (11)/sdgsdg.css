@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    width: 550px;
+    height: 450px;
+    
+    margin: 100px auto;
+    background-color: rgb(197, 189, 189);
+}
+.tempo{
+    display: flex;
+}
+.speed{
+    display: flex;
+}
+.time{
+    display: flex;
+}
+input{
+    width: 450px;
+    height: 50px;
+    border-radius: 36px;
+    padding: 15px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.search{
+    display: flex;
+}
+button{
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    border: 0;
+    margin-top: 15px;
+}
+.all{
+    margin: 50px;
+}
+p{
+    /* border: 5px solid rgb(198, 198, 202); */
+    padding: 10px;
+    border-radius: 20px solid;
+    
+}
